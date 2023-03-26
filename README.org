@@ -4,6 +4,8 @@
 
 Bughunter is a web tool for teaching and learning programming. It uses two different approaches: finding and identifying bugs in existing code and Parson's problems.
 
+** Planning
+Code will be stored in the database as a model. Parsons problems will simply split the code on new lines (preserving or consuming whitespace, as requested).
 ** Usage
 
 ** Installation
