@@ -1,0 +1,16 @@
+#+title: Readme
+
+* Bughunter
+
+Bughunter is a web tool for teaching and learning programming. It uses two different approaches: finding and identifying bugs in existing code and Parson's problems.
+
+** Usage
+
+** Installation
+
+** Author
+Jonathan A. Bennett <doulos05@gmail.com>
+
+** Copyright
+
+Copyright (c) 2023 Jonathan A. Bennett
